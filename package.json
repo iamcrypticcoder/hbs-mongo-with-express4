@@ -8,7 +8,7 @@
   "dependencies": {
     "body-parser": "~1.8.1",
     "cookie-parser": "~1.3.3",
-    "debug": "~2.0.0",
+    "debug": "~4.1.1",
     "express": "~4.9.0",
     "hbs": "^2.7.0",
     "jade": "~1.6.0",
